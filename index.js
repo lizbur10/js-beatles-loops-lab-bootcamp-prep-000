@@ -2,5 +2,5 @@
 function theBeatlesPlay() {
   const array = [];
   
-  
+  return array;
 }
